@@ -1,5 +1,7 @@
 # web-330
 Enterprise JavaScript II
-#contributors
-Professor Krasso - Bellevue University
+
+# contributors
 Matthew Howard - Bellevue University
+Professor Krasso - Bellevue University
+
